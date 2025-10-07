@@ -24,6 +24,12 @@ pip install streamlit textblob
 
 python -m textblob.download_corpora
 
+## Créer un environnement virtuel nommé venv
+python -m venv venv
+## 2. Activer l’environnement (selon ton système)
+🔹 Sur Windows :
+venv\Scripts\activate
+
 ## 🚀 Exécution
 
 ### ▶️ Version simple
